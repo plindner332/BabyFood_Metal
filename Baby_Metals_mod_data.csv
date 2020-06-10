@@ -1,169 +1,169 @@
 ,Brand,Food,Food type,"Arsenic (total, ppb)","Arsenic (inorganic, ppb)",Lead (ppb),Cadmium (ppb),"Mercury (total, ppb)",Metro area where purchased,Retailer
-0,Beech-Nut,"Beech-Nut Rice Single Grain Baby Cereal - Stage 1, from about 4 months",Cereal - rice ,117,86,3.5,5.4,0.582,"Charlottesville, VA",Wegmans
-1,BioKinetics,BioKinetics BioKinetics Brown Rice Organic Sprouted Whole Grain Baby Cereal,Cereal - rice ,353,144,3.1 ,31.7,2.32,"Washington, DC",amazon.com
-2,Earth's Best,Earth's Best Whole Grain Rice Cereal,Cereal - rice,138,113,22.5,14.7,2.41,"San Diego, CA",99 Cents Only Stores
-3,Earth's Best,Earth's Best Whole Grain Rice Cereal,Cereal - rice,126,107,17.8,13.4,2.19,"Portland, ME",Hannaford
-4,Gerber,Gerber Rice Single Grain Cereal,Cereal - rice,106,74,3.9,11.1,1.79,"Gambell, AK",ANICA Native Store
-5,Healthy Times,Healthy Times Organic Brown Rice Cereal - 4+ months,Cereal - rice,153,133,67.4,12.1,1.53,"Washington, DC",amazon.com
-6,Kitchdee Organic,Kitchdee Organic Baby Cereal Rice and Lentil - 6+ months Infant cereal: multi- and single non-rice grain,Cereal - rice ,79.3,78,10.9,13.1,4.06,"Washington, DC",amazon.com
-7,Gerber,Gerber MultiGrain Cereal - Sitter 2nd Foods ,Cereal - mixed and multi-grain,37,31,5.3,26.2,0.367 ,"Detroit, MI",Meijer
-8,HappyBABY,HappyBABY Oats & Quinoa Baby Cereal Organic Whole Grains with Iron -  Sitting baby,Cereal - mixed and multi-grain,10.2,,0.9 ,12.4,0,"Minneapolis, MN",Target
-9,Beech-Nut,"Beech-Nut Oatmeal Whole Grain Baby Cereal - Stage 1, from about 4 months",Cereal - oatmeal ,23.8,,2.2,13,0,"Portland, OR",Fred Meyer
-10,Earth's Best,Earth's Best Whole Grain Oatmeal Cereal,Cereal - oatmeal,29.5,27,2 ,20.1,0,"Portland, ME",Hannaford
-11,Gerber,Gerber Oatmeal Single Grain Cereal,Cereal - oatmeal,26.9,,3 ,13,0,"Washington, DC",Safeway
-12,HappyBABY,"HappyBABY Oatmeal Baby Cereal, Clearly Crafted - Organic Whole Grains  - for sitting baby",Cereal - oatmeal ,6.3 ,,0,10,0,"Albany, NY",buybuyBABY
-13,Harvest Hill,"Harvest Hill Instant Oatmeal, Maple & Brown Sugar",Cereal - oatmeal,13.5,,8.1,5.8,0,"Houston, TX",Dollar Tree
-14,Cream of Wheat,Cream of Wheat Cream of Wheat Instant Original Flavor ,Cereal - other single-grain,19.5,,21.8,36.7,0,"San Diego, CA",99 Cents Only Stores
-15,Gerber,Gerber Barley Single Grain Cereal-  Supported Sitter 1st Foods,Cereal - other single-grain,10.6 ,,3 ,13.7,0,"Detroit, MI",Meijer
-16,Gerber,Gerber Whole Wheat Whole Grain Cereal - Sitter 2nd Foods ,Cereal - other single-grain,40.6,39,5.5,50.8,0,"Cincinnati, OH",Kroger
-17,NurturMe,NurturMe Organic Quinoa Cereals - Quinoa + Sweet Potato + Raisin Infant formula,Cereal - other single-grain ,35.9,26,39.8,20.3,0.389 ,"San Diego, CA",99 Cents Only Stores
-18,365 organic(Whole Foods),365 organic (Whole Organic Milk Based Powder Infant Formula with Foods) Iron,Formula ,4.1 ,,2.7,0.7 ,0,"Boulder, CO",Whole Foods Market
+0,Beech-Nut,"Beech-Nut Rice Single Grain Baby Cereal - Stage 1, from about 4 months",Cereal-rice,117,86,3.5,5.4,0.582,"Charlottesville, VA",Wegmans
+1,BioKinetics,BioKinetics BioKinetics Brown Rice Organic Sprouted Whole Grain Baby Cereal,Cereal-rice,353,144,3.1 ,31.7,2.32,"Washington, DC",amazon.com
+2,Earth's Best,Earth's Best Whole Grain Rice Cereal,Cereal-rice,138,113,22.5,14.7,2.41,"San Diego, CA",99 Cents Only Stores
+3,Earth's Best,Earth's Best Whole Grain Rice Cereal,Cereal-rice,126,107,17.8,13.4,2.19,"Portland, ME",Hannaford
+4,Gerber,Gerber Rice Single Grain Cereal,Cereal-rice,106,74,3.9,11.1,1.79,"Gambell, AK",ANICA Native Store
+5,Healthy Times,Healthy Times Organic Brown Rice Cereal - 4+ months,Cereal-rice,153,133,67.4,12.1,1.53,"Washington, DC",amazon.com
+6,Kitchdee Organic,Kitchdee Organic Baby Cereal Rice and Lentil - 6+ months Infant cereal: multi- and single non-rice grain,Cereal-rice,79.3,78,10.9,13.1,4.06,"Washington, DC",amazon.com
+7,Gerber,Gerber MultiGrain Cereal - Sitter 2nd Foods ,Cereal-mixedandmulti-grain,37,31,5.3,26.2,0.367 ,"Detroit, MI",Meijer
+8,HappyBABY,HappyBABY Oats & Quinoa Baby Cereal Organic Whole Grains with Iron -  Sitting baby,Cereal-mixedandmulti-grain,10.2,,0.9 ,12.4,0,"Minneapolis, MN",Target
+9,Beech-Nut,"Beech-Nut Oatmeal Whole Grain Baby Cereal - Stage 1, from about 4 months",Cereal-oatmeal,23.8,,2.2,13,0,"Portland, OR",Fred Meyer
+10,Earth's Best,Earth's Best Whole Grain Oatmeal Cereal,Cereal-oatmeal,29.5,27,2 ,20.1,0,"Portland, ME",Hannaford
+11,Gerber,Gerber Oatmeal Single Grain Cereal,Cereal-oatmeal,26.9,,3 ,13,0,"Washington, DC",Safeway
+12,HappyBABY,"HappyBABY Oatmeal Baby Cereal, Clearly Crafted - Organic Whole Grains  - for sitting baby",Cereal-oatmeal,6.3 ,,0,10,0,"Albany, NY",buybuyBABY
+13,Harvest Hill,"Harvest Hill Instant Oatmeal, Maple & Brown Sugar",Cereal-oatmeal,13.5,,8.1,5.8,0,"Houston, TX",Dollar Tree
+14,Cream of Wheat,Cream of Wheat Cream of Wheat Instant Original Flavor ,Cereal-othersingle-grain,19.5,,21.8,36.7,0,"San Diego, CA",99 Cents Only Stores
+15,Gerber,Gerber Barley Single Grain Cereal-  Supported Sitter 1st Foods,Cereal-othersingle-grain,10.6 ,,3 ,13.7,0,"Detroit, MI",Meijer
+16,Gerber,Gerber Whole Wheat Whole Grain Cereal - Sitter 2nd Foods ,Cereal-othersingle-grain,40.6,39,5.5,50.8,0,"Cincinnati, OH",Kroger
+17,NurturMe,NurturMe Organic Quinoa Cereals - Quinoa + Sweet Potato + Raisin Infant formula,Cereal-othersingle-grain,35.9,26,39.8,20.3,0.389 ,"San Diego, CA",99 Cents Only Stores
+18,365 organic(Whole Foods),365 organic (Whole Organic Milk Based Powder Infant Formula with Foods) Iron,Formula,4.1 ,,2.7,0.7 ,0,"Boulder, CO",Whole Foods Market
 19,Baby's Only Organic,Baby's Only Organic Organic Non-GMO Dairy Toddler Formula,Formula,3.8 ,,1.6 ,0,0,"Boulder, CO",Whole Foods Market
-20,Earth's Best,Earth's Best Organic Sensitivity - DHR/ARA Infant Formula with Iron Organic Milk-Based Powder,Formula ,0,,1.6 ,1.4 ,0,"Portland, ME",Hannaford
-21,Enfamil,"Enfamil ProSobee Soy Infant Formula, Milk-Free Lactose- Free Powder with Iron",Formula ,6.2 ,,7.8,6.9,0,"Columbia, SC",Publix
-22,Enfamil,Enfamil Infant - Infant Formula Milk-Based with Iron - 0-12 months,Formula ,0,,2,0.7 ,0,"Charlottesville, VA",Wegmans
-23,Gerber,"Gerber Good Start Gentle HM-O and Probiotics Infant Formula with iron; Milk Based Powder - Stage 1, birth to 12 months",Formula  ,5.2 ,,0.9 ,0,0,"Cincinnati, OH",Kroger
-24,HappyBABY,"HappyBABY Organic Infant Formula with Iron, Milk Based Powder - 0-12 months",Formula ,0,,3.7,0,0,"Washington, DC",amazon.com
-25,Meijer,"Meijer Meijer Baby, Infant Formula - Milk-Based Powder with Iron - Birth - 12 months",Formula ,0,,2.3 ,3.1 ,0.417 ,"Detroit, MI",Meijer
-26,Parent's Choice (Walmart),Parent's Choice Organic Infant With Iron Milk-Based Powder - Stage (Walmart) 1 through 12 months,Formula ,3.2 ,,3.9,0.7 ,0,"Charlottesville, VA",Walmart
-27,Plum Organics,"Plum Organics Gentle Organic Infant Formula with Iron, Milk- Based Powder - 0-12 months †",Formula ,4.6 ,,4.7,0,0,"Washington, DC",amazon.com
+20,Earth's Best,Earth's Best Organic Sensitivity - DHR/ARA Infant Formula with Iron Organic Milk-Based Powder,Formula,0,,1.6 ,1.4 ,0,"Portland, ME",Hannaford
+21,Enfamil,"Enfamil ProSobee Soy Infant Formula, Milk-Free Lactose- Free Powder with Iron",Formula,6.2 ,,7.8,6.9,0,"Columbia, SC",Publix
+22,Enfamil,Enfamil Infant - Infant Formula Milk-Based with Iron - 0-12 months,Formula,0,,2,0.7 ,0,"Charlottesville, VA",Wegmans
+23,Gerber,"Gerber Good Start Gentle HM-O and Probiotics Infant Formula with iron; Milk Based Powder - Stage 1, birth to 12 months",Formula,5.2 ,,0.9 ,0,0,"Cincinnati, OH",Kroger
+24,HappyBABY,"HappyBABY Organic Infant Formula with Iron, Milk Based Powder - 0-12 months",Formula,0,,3.7,0,0,"Washington, DC",amazon.com
+25,Meijer,"Meijer Meijer Baby, Infant Formula - Milk-Based Powder with Iron - Birth - 12 months",Formula,0,,2.3 ,3.1 ,0.417 ,"Detroit, MI",Meijer
+26,Parent's Choice (Walmart),Parent's Choice Organic Infant With Iron Milk-Based Powder - Stage (Walmart) 1 through 12 months,Formula,3.2 ,,3.9,0.7 ,0,"Charlottesville, VA",Walmart
+27,Plum Organics,"Plum Organics Gentle Organic Infant Formula with Iron, Milk- Based Powder - 0-12 months †",Formula,4.6 ,,4.7,0,0,"Washington, DC",amazon.com
 28,Similac,Similac Similac Advance OptiGRO Powder - Milk-Based,Formula,4.6 ,,2,0,0,"Gambell, AK",ANICA Native Store
-29,Simple Truth Organic (Kroger),"Simple Truth Organic Infant Formula with Iron, Organic Milk-Based (Kroger) Powder",Formula ,3.6 ,,2.7,0.6 ,0,"Portland, OR",Fred Meyer
-30,up & up (Target),"up & up (Target) Infant - Infant Formula with Iron, Milk-Based Powder, DHA and Dual Prebiotics Vegetable - single, carrot",Formula  ,0,,1.5 ,3.1,0,"Minneapolis, MN",Target
-31,Beech-Nut,Beech-Nut Classics Sweet Carrots - 2 ,Veggie - single - carrot,0,,27.2,6.8,0.15 ,"Washington, DC",Safeway
-32,Beech-Nut,Beech-Nut Classics Sweet Carrots - Stage 2 ,Veggie - single - carrot,0,,23.5,8,0.212 ,"Portland, ME",Hannaford
-33,Beech-Nut,Beech-Nut Organics Just Carrots - Stage 1 ,Veggie - single - carrot,2.8 ,,1.3 ,1.4 ,0.142 ,"Minneapolis, MN",Target
-34,Earth's Best,"Earth's Best Carrots Organic Baby Food - 2, 6 months + ",Veggie - single - carrot,4.1 ,,1.1 ,0,0.224 ,"Boulder, CO",Whole Foods Market
-35,Earth's Best,Earth's Best Carrots Organic Baby Food 2 - 6 months+ ,Veggie - single - carrot,3.5 ,,1.6 ,5.2,0.24 ,"Columbia, SC",Publix
-36,Earth's Best,"Earth's Best First Carrots Organic Baby Food - 1, 4 months+ ",Veggie - single - carrot,5.2 ,,1.6 ,4.4,0.222 ,"Charlottesville, VA",Wegmans
-37,Gerber,Gerber Diced Carrots Veggie Pick-UpsTM ,Veggie - single - carrot,0,,11.8,27.7,0.223 ,"Washington, DC",Safeway
-38,Gerber,Gerber Carrot - Sitter 2nd food ,Veggie - single - carrot,0,,9.4,31.4,0.214 ,"Minneapolis, MN",Target
-39,Gerber,Gerber Carrot - Supported Sitter 1st Foods ,Veggie - single - carrot,0,,11,42.2,0.248 ,"Columbia, SC",Publix
-40,Meijer,Meijer True Goodness Organic Carrots Baby Food ,Veggie - single - carrot,0,,1.4,7.7,0,"Detroit, MI",Meijer
-41,O Organics (Albertson/Safeway),O Organics Organic Carrots Baby Food - 2 (Albertson/Safeway),Veggie - single - carrot,3.3 ,,1.9,5.2,0,"Washington, DC",Safeway
-42,Parent's Choice (Walmart),"Parent's Choice Carrot - Stage 2, 6+ months (Walmart) Vegetable - single, sweet potato",Veggie - single - carrot ,0,,2.3,11.2,0,"Charlottesville, VA",Walmart
-43,Beech-Nut,"Beech-Nut Naturals Just Sweet Potatoes - Stage 1, from about 4 months",Veggie - single - sweet potato,2.4 ,,14.1,4,0,"Albany, NY",buybuyBABY
-44,Beech-Nut,"Beech-Nut Organics Just Sweet Potatoes - Stage 1, from about 4 months",Veggie - single - sweet potato,3.8 ,,7.3,2.7,0,"Cincinnati, OH",Kroger
-45,Beech-Nut,"Beech-Nut Classics Sweet Potatoes - Stage 2, from about 6 months",Veggie - single - sweet potato,2.8 ,,24.1,3.4,0,"Portland, OR",Fred Meyer
-46,Earth's Best,"Earth's Best Sweet Potatoes Organic Baby Food - 1, 4 months + ",Veggie - single - sweet potato,3.3 ,,14.7,4.6,0,"Boulder, CO",Whole Foods Market
-47,Earth's Best,Earth's Best Sweet Potatoes Organic Baby Food 2 - from about 6 months,Veggie - single - sweet potato,3.1 ,,12.9,3,0,"Portland, OR",Fred Meyer
-48,Earth's Best,Earth's Best Sweet Potatoes Organic Baby Food 2 - 6 months+ ,Veggie - single - sweet potato,4.3 ,,6.9,1.6 ,0,"Columbia, SC",Publix
-49,Gerber,Gerber Sweet Potato Supported Sitter 1st Foods Tub ,Veggie - single - sweet potato,2.4 ,,20.3,4.7,0,"Washington, DC",Safeway
-50,Gerber,Gerber Sweet Potato - Sitter 2nd Food ,Veggie - single - sweet potato,3.9 ,,29.3,5.8,0,"Minneapolis, MN",Target
-51,Gerber,Gerber Sweet Potato - Supported Sitter 1st Foods ,Veggie - single - sweet potato,6.9,,14.6,3.5,0,"Cincinnati, OH",Kroger
-52,HappyBABY,HappyBABY Organics Sweet Potatoes - Stage 1 ,Veggie - single - sweet potato,5.8 ,,1.5 ,1 ,0,"Portland, ME",Hannaford
-53,HappyBABY,HappyBABY Organics Sweet Potatoes - Stage 1 ,Veggie - single - sweet potato,6 ,,2.2,0.8 ,0,"Detroit, MI",Meijer
-54,HappyBABY,HappyBABY Sweet Potatoes - Stage 1 ,Veggie - single - sweet potato,27.5,29,2,1.6 ,0,"Columbia, SC",Publix
-55,Meijer,Meijer Meijer Baby Sweet Potatoes - 2nd Stage ,Veggie - single - sweet potato,11.9,,1.3 ,0.8 ,0,"Portland, ME",Hannaford
-56,Meijer,Meijer True Goodness Organic Sweet Potatoes Baby Food - Stage 2,Veggie - single - sweet potato,2.6 ,,0.8 ,0.6 ,0,"Detroit, MI",Meijer
-57,Parent's Choice (Walmart),"Parent's Choice Sweet Potato - Stage 1, 4-6 months (Walmart)",Veggie - single - sweet potato,4.3 ,,4.3,1.4 ,0,"Charlottesville, VA",Walmart
-58,Plum Organics,"Plum Organics Just Sweet Potato Organic Baby Food - 1, 4 months & up",Veggie - single - sweet potato,3.1 ,,5.6,2.3,0,"Boulder, CO",Whole Foods Market
-59,Plum Organics,"Plum Organics Just Sweet Potato Organic Baby Food - 1, 4 months & up Vegetable - single (other than carrot, sweet potato)",Veggie - single - sweet potato ,2.3 ,,14,2.7,0,"Washington, DC",Safeway
-60,Beech-Nut,Beech-Nut Classics Sweat Peas - Stage 2 ,Veggie - single - other,6.3 ,,1.1 ,1.6 ,0,"Portland, ME",Hannaford
-61,Beech-Nut,Beech-Nut Beechnut Naturals Just Butternut Squash - Stage 1 ,Veggie - single - other,0,,1.3 ,1.2 ,0,"Detroit, MI",Meijer
-62,Beech-Nut,"Beech-Nut Organic Just Pumpkin - Stage 1, from about 4 months",Veggie - single - other,2.6 ,,4,1.1 ,0,"Portland, OR",Fred Meyer
-63,Earth's Best,"Earth's Best Winter Squash Organic Baby Food - 2, 6 months + ",Veggie - single - other,0,,0.8 ,0,0,"Cincinnati, OH",Kroger
-64,Earth's Best,Earth's Best First Peas Organic Baby Food 1 - 4 months+ ,Veggie - single - other,5.9 ,,3.8,0,0,"Columbia, SC",Publix
-65,Gerber,Gerber Pea - Sitter 2nd foods ,Veggie - single - other,0,,0.7 ,0,0,"Gambell, AK",ANICA Native Store
-66,Gerber,Gerber Green Bean - Sitter 2nd Food ,Veggie - single - other,0,,0.8 ,2.8,0,"Minneapolis, MN",Target
-67,Gerber,Gerber Green Bean - Supported Sitter 1st Foods ,Veggie - single - other,0,,0.7 ,0.6 ,0,"Cincinnati, OH",Kroger
-68,Parent's Choice (Walmart),"Parent's Choice Organic Butternut Squash Vegetable Puree - Stage (Walmart) 2, 6+ months Fruit - single",Veggie - single - other ,0,,4.2,0.9 ,0,"Charlottesville, VA",Walmart
-69,Applesnax,Applesauce with Cinnamon ,Fruit - single - apple,0,,1.7,0,0,"Dallas, TX",Dollar Tree
-70,Beech-Nut,"Organic Just Apples - Stage 1, from about 4 months ",Fruit - single - apple,0,,0,0,0,"Charlottesville, VA",Wegmans
-71,Earth's Best,Apples Organic Baby Food 2 - from about 6 months ,Fruit - single - apple,6.5,,1.5 ,0,0,"Portland, OR",Fred Meyer
-72,Mott's,Mott's Applesauce Apple ,Fruit - single - apple,0,,0,0,0,"San Diego, CA",Family Dollar
-73,Seneca,Cinnamon Apple Sauce ,Fruit - single - apple,5.6 ,,3.7,0.7 ,0,"San Diego, CA",99 Cents Only Stores
-74,Beech-Nut,"Naturals Bananas - Stage 1, from about 4 months ",Fruit - single - banana,0,,0,0,0,"Albany, NY",buybuyBABY
-75,Gerber,Banana - Sitter 2nd Foods ,Fruit - single - banana,0,,0,0,0,"Gambell, AK",ANICA Native Store
-76,Meijer,Meijer Baby Bananas - 2nd Stage ,Fruit - single - banana,0,,0,0,0,"Detroit, MI",Meijer
-77,Gerber,Peach - Sitter 2nd Foods,Fruit - single - other,7.3,,2.4,2.1,0.142 ,"Gambell, AK",ANICA Native Store
-78,Orchard Naturals,Mandarin Oranges in Light Syrup,Fruit - single - other,0,,0,0,0,"Houston, TX",Dollar Tree
-79,Plum Organics,Just peaches - organic baby food - for 4+ months (stage 1),Fruit - single - other ,7.2,,0.9 ,0,0,"Albany, NY",buybuyBABY
-80,Earth's Best,"First pears - 1, 4 months+",Fruit - single - pear,4.3 ,,1.2 ,1.5 ,0,"Houston, TX",99 Cents Only Stores
-81,Gerber,Pear - Sitter 2nd foods,Fruit - single - pear,4.2 ,,1.1 ,2.5,0.169 ,"Gambell, AK",ANICA Native Store
-82,HappyBABY,Organic Pears - Stage 1,Fruit - single - pear,7.4,,1 ,0.8 ,0,"Boulder, CO",Whole Foods Market
-83,HappyBABY,"Clearly Crafted Prunes Organic Baby Food, 1, 4+ months",Fruit - single - prune,0,,2,0,0,"Charlottesville, VA",Wegmans
-84,Sprout,Prunes Organic Baby Food - 1 starting solids  ,Fruit - single - prune ,3.9 ,,6.1,0,0.245 ,"Albany, NY",buybuyBABY
-85,Beech-Nut,"Naturals Beets, Pear & Pomegranate - 2 ",Fruit and veggie - mixed,0,,0.9 ,4.7,0,"Washington, DC",Safeway
-86,Gerber,Organic Mango Apple Carrot Kale - Sitter 2nd foods ,Fruit and veggie - mixed,3.3 ,,1.1 ,11.4,0.212 ,"Gambell, AK",ANICA Native Store
-87,Gerber,Carrot Pear Blackberry - Sitter 2nd Foods ,Fruit and veggie - mixed,2.7 ,,3.6,18.2,0,"Washington, DC",gerber.com
-88,Gerber,Organic Apple Blueberry Spinach - Sitter 2nd Food ,Fruit and veggie - mixed,5 ,,1.5 ,1.8,0,"Houston, TX",99 Cents Only Stores
-89,HappyBABY,"HappyBABY Simple Combos Apples, Spinach & Kale - 2 ",Fruit and veggie - mixed,3 ,,4.3,4.9,0.182 ,"Portland, ME",Hannaford
-90,O Organics (Albertson/Safeway),"O Organics Organic Apple, Sweet Potato & Carrot Baby Food (Albertson/Safeway)",Fruit and veggie - mixed,2.6 ,,0.7 ,1.1 ,0,"Washington, DC",Safeway
-91,Plum Organics,"Plum Organics Just Prunes Organic Baby Food - 1, 4 months & up ",Fruit and veggie - mixed,7.6,,2.5,0,0.194 ,"Boulder, CO",Whole Foods Market
-92,Sprout,"Sprout Carrot Apple Mango Organic Baby Food - 2, 6 months & up",Fruit and veggie - mixed,6.1,,2.1,15.1,0,"Charlottesville, VA",Wegmans
-93,up & up (Target),"up & up (Target) Apple and Carrot Baby Food, Fruit + Vegetable Blend,  6+ months",Fruit and veggie - mixed,0,,0.7 ,0,0,"Minneapolis, MN",Target
-94,Gerber,Gerber Apple Sweet Potato with Cinnamon - Toddler 12+ months,Fruit and veggie - mixed,0,,3.1,0.7 ,0,"Houston, TX",99 Cents Only Stores
-95,Plum Organics,Plum Organics Pumpkin Banana Papaya Cardomom - 6 months and up,Fruit and veggie - mixed,2.4 ,,1.4 ,2.4,0,"San Diego, CA",99 Cents Only Stores
-96,Beech-Nut,Beech-Nut Classics Mixed Vegetables - Stage 2,Veggie - mixed,0,,17.9,8.6,0,"Portland, ME",Hannaford
-97,Earth's Best,"Earth's Best Spinach and Potato Organic Baby Food - 2, 6+ months",Veggie - mixed ,6.4,,1.4 ,3,0,"Charlottesville, VA",Wegmans
-98,Gerber,Gerber Carrot Sweet Potato Pea - Sitter 2nd Foods Juice - 100% apple,Veggie - mixed ,2.4 ,,6.7,2.1,0,"Gambell, AK",ANICA Native Store
-99,365 organic(Whole Foods),365 organic (Whole 100% Juice - Apple from Concentrate Foods),Juice - 100% fruit ,2.5 ,,0.7 ,0,0,"Boulder, CO",Whole Foods Market
-100,Gerber,Gerber Apple Juice from Concentrate - Toddler 12+ months,Juice - 100% fruit,3.1 ,,2.1,0,0,"Portland, ME",Hannaford
-101,Juicy Juice,Juicy Juice Juicy Juice 100% Juice - Apple,Juice - 100% fruit,3.6 ,,1 ,0,0,"Dallas, TX",Dollar Tree
-102,Kidgets,"Kidgets Toddler Apple Juice from Concentrate Juice - 100% fruit juice, non-apple or mixed",Juice - 100% fruit ,0,,0.6 ,0,0,"San Diego, CA",Family Dollar
-103,Apple & Eve,Apple & Eve Elmo's Punch - 100% Juice Organics,Juice - 100% fruit,0,,0,0,0,"Boulder, CO",Whole Foods Market
-104,Gerber,Gerber Apple Prune Juice from Concentrate - Toddler 12+ months,Juice - 100% fruit ,5.6 ,,3.3,0,0,"Cincinnati, OH",Kroger
-105,Gerber,Gerber Variety Pack Juices from Concentrate - White Grape,Juice - 100% fruit,9.9,,11.1,0,0,"Portland, OR",Fred Meyer
-106,Gerber,Gerber Pear Juice from Concentrate 100% Juice - Toddler 12+ months,Juice - 100% fruit ,4 ,,1.1 ,0.9 ,0,"Charlottesville, VA",Wegmans
-107,Juicy Juice,Juicy Juice 100% Juice Fruit Punch Drinks - not 100% fruit juice,Juice - 100% fruit ,2.5 ,,0.6 ,0.6 ,0,"San Diego, CA",Family Dollar
-108,Good2Grow,Good2Grow Fortified Water - Orange Mango ,Drink - not 100% fruit,0,,1.8,0,0,"Dallas, TX",99 Cents Only Stores
-109,Orgain,Orgain Kids Protein Organic Nutrituional Shake Vanilla Flavor - Ages 1 to 13,Drink - not 100% fruit,3.9 ,,0.6 ,0,0,"Charlottesville, VA",Wegmans
-110,Pediasure,Pediasure Grow & Gain Chocolate Shake ,Drink - not 100% fruit,3 ,,1.3 ,2,0,"Portland, ME",Hannaford
-111,Repone,Repone Suero/Electrolyte Solution with Zinc Fruit Flavor ,Drink - not 100% fruit,0,,0,0,0,"San Diego, CA",Family Dollar
-112,Yoo-hoo,"Yoo-hoo Yoo-hoo Chocolate Drink  Meals, including fruits & veggies with grains",Drink - not 100% fruit ,2.6 ,,0.8 ,1.1 ,0,"Houston, TX",Dollar Tree
+29,Simple Truth Organic (Kroger),"Simple Truth Organic Infant Formula with Iron, Organic Milk-Based (Kroger) Powder",Formula,3.6 ,,2.7,0.6 ,0,"Portland, OR",Fred Meyer
+30,up & up (Target),"up & up (Target) Infant - Infant Formula with Iron, Milk-Based Powder, DHA and Dual Prebiotics Vegetable - single, carrot",Formula,0,,1.5 ,3.1,0,"Minneapolis, MN",Target
+31,Beech-Nut,Beech-Nut Classics Sweet Carrots - 2 ,Veggie-single-carrot,0,,27.2,6.8,0.15 ,"Washington, DC",Safeway
+32,Beech-Nut,Beech-Nut Classics Sweet Carrots - Stage 2 ,Veggie-single-carrot,0,,23.5,8,0.212 ,"Portland, ME",Hannaford
+33,Beech-Nut,Beech-Nut Organics Just Carrots - Stage 1 ,Veggie-single-carrot,2.8 ,,1.3 ,1.4 ,0.142 ,"Minneapolis, MN",Target
+34,Earth's Best,"Earth's Best Carrots Organic Baby Food - 2, 6 months + ",Veggie-single-carrot,4.1 ,,1.1 ,0,0.224 ,"Boulder, CO",Whole Foods Market
+35,Earth's Best,Earth's Best Carrots Organic Baby Food 2 - 6 months+ ,Veggie-single-carrot,3.5 ,,1.6 ,5.2,0.24 ,"Columbia, SC",Publix
+36,Earth's Best,"Earth's Best First Carrots Organic Baby Food - 1, 4 months+ ",Veggie-single-carrot,5.2 ,,1.6 ,4.4,0.222 ,"Charlottesville, VA",Wegmans
+37,Gerber,Gerber Diced Carrots Veggie Pick-UpsTM ,Veggie-single-carrot,0,,11.8,27.7,0.223 ,"Washington, DC",Safeway
+38,Gerber,Gerber Carrot - Sitter 2nd food ,Veggie-single-carrot,0,,9.4,31.4,0.214 ,"Minneapolis, MN",Target
+39,Gerber,Gerber Carrot - Supported Sitter 1st Foods ,Veggie-single-carrot,0,,11,42.2,0.248 ,"Columbia, SC",Publix
+40,Meijer,Meijer True Goodness Organic Carrots Baby Food ,Veggie-single-carrot,0,,1.4,7.7,0,"Detroit, MI",Meijer
+41,O Organics (Albertson/Safeway),O Organics Organic Carrots Baby Food - 2 (Albertson/Safeway),Veggie-single-carrot,3.3 ,,1.9,5.2,0,"Washington, DC",Safeway
+42,Parent's Choice (Walmart),"Parent's Choice Carrot - Stage 2, 6+ months (Walmart) Vegetable - single, sweet potato",Veggie-single-carrot,0,,2.3,11.2,0,"Charlottesville, VA",Walmart
+43,Beech-Nut,"Beech-Nut Naturals Just Sweet Potatoes - Stage 1, from about 4 months",Veggie-single-sweetpotato,2.4 ,,14.1,4,0,"Albany, NY",buybuyBABY
+44,Beech-Nut,"Beech-Nut Organics Just Sweet Potatoes - Stage 1, from about 4 months",Veggie-single-sweetpotato,3.8 ,,7.3,2.7,0,"Cincinnati, OH",Kroger
+45,Beech-Nut,"Beech-Nut Classics Sweet Potatoes - Stage 2, from about 6 months",Veggie-single-sweetpotato,2.8 ,,24.1,3.4,0,"Portland, OR",Fred Meyer
+46,Earth's Best,"Earth's Best Sweet Potatoes Organic Baby Food - 1, 4 months + ",Veggie-single-sweetpotato,3.3 ,,14.7,4.6,0,"Boulder, CO",Whole Foods Market
+47,Earth's Best,Earth's Best Sweet Potatoes Organic Baby Food 2 - from about 6 months,Veggie-single-sweetpotato,3.1 ,,12.9,3,0,"Portland, OR",Fred Meyer
+48,Earth's Best,Earth's Best Sweet Potatoes Organic Baby Food 2 - 6 months+ ,Veggie-single-sweetpotato,4.3 ,,6.9,1.6 ,0,"Columbia, SC",Publix
+49,Gerber,Gerber Sweet Potato Supported Sitter 1st Foods Tub ,Veggie-single-sweetpotato,2.4 ,,20.3,4.7,0,"Washington, DC",Safeway
+50,Gerber,Gerber Sweet Potato - Sitter 2nd Food ,Veggie-single-sweetpotato,3.9 ,,29.3,5.8,0,"Minneapolis, MN",Target
+51,Gerber,Gerber Sweet Potato - Supported Sitter 1st Foods ,Veggie-single-sweetpotato,6.9,,14.6,3.5,0,"Cincinnati, OH",Kroger
+52,HappyBABY,HappyBABY Organics Sweet Potatoes - Stage 1 ,Veggie-single-sweetpotato,5.8 ,,1.5 ,1 ,0,"Portland, ME",Hannaford
+53,HappyBABY,HappyBABY Organics Sweet Potatoes - Stage 1 ,Veggie-single-sweetpotato,6 ,,2.2,0.8 ,0,"Detroit, MI",Meijer
+54,HappyBABY,HappyBABY Sweet Potatoes - Stage 1 ,Veggie-single-sweetpotato,27.5,29,2,1.6 ,0,"Columbia, SC",Publix
+55,Meijer,Meijer Meijer Baby Sweet Potatoes - 2nd Stage ,Veggie-single-sweetpotato,11.9,,1.3 ,0.8 ,0,"Portland, ME",Hannaford
+56,Meijer,Meijer True Goodness Organic Sweet Potatoes Baby Food - Stage 2,Veggie-single-sweetpotato,2.6 ,,0.8 ,0.6 ,0,"Detroit, MI",Meijer
+57,Parent's Choice (Walmart),"Parent's Choice Sweet Potato - Stage 1, 4-6 months (Walmart)",Veggie-single-sweetpotato,4.3 ,,4.3,1.4 ,0,"Charlottesville, VA",Walmart
+58,Plum Organics,"Plum Organics Just Sweet Potato Organic Baby Food - 1, 4 months & up",Veggie-single-sweetpotato,3.1 ,,5.6,2.3,0,"Boulder, CO",Whole Foods Market
+59,Plum Organics,"Plum Organics Just Sweet Potato Organic Baby Food - 1, 4 months & up Vegetable - single (other than carrot, sweet potato)",Veggie-single-sweetpotato,2.3 ,,14,2.7,0,"Washington, DC",Safeway
+60,Beech-Nut,Beech-Nut Classics Sweat Peas - Stage 2 ,Veggie-single-other,6.3 ,,1.1 ,1.6 ,0,"Portland, ME",Hannaford
+61,Beech-Nut,Beech-Nut Beechnut Naturals Just Butternut Squash - Stage 1 ,Veggie-single-other,0,,1.3 ,1.2 ,0,"Detroit, MI",Meijer
+62,Beech-Nut,"Beech-Nut Organic Just Pumpkin - Stage 1, from about 4 months",Veggie-single-other,2.6 ,,4,1.1 ,0,"Portland, OR",Fred Meyer
+63,Earth's Best,"Earth's Best Winter Squash Organic Baby Food - 2, 6 months + ",Veggie-single-other,0,,0.8 ,0,0,"Cincinnati, OH",Kroger
+64,Earth's Best,Earth's Best First Peas Organic Baby Food 1 - 4 months+ ,Veggie-single-other,5.9 ,,3.8,0,0,"Columbia, SC",Publix
+65,Gerber,Gerber Pea - Sitter 2nd foods ,Veggie-single-other,0,,0.7 ,0,0,"Gambell, AK",ANICA Native Store
+66,Gerber,Gerber Green Bean - Sitter 2nd Food ,Veggie-single-other,0,,0.8 ,2.8,0,"Minneapolis, MN",Target
+67,Gerber,Gerber Green Bean - Supported Sitter 1st Foods ,Veggie-single-other,0,,0.7 ,0.6 ,0,"Cincinnati, OH",Kroger
+68,Parent's Choice (Walmart),"Parent's Choice Organic Butternut Squash Vegetable Puree - Stage (Walmart) 2, 6+ months Fruit - single",Veggie-single-other,0,,4.2,0.9 ,0,"Charlottesville, VA",Walmart
+69,Applesnax,Applesauce with Cinnamon ,Fruit-single-apple,0,,1.7,0,0,"Dallas, TX",Dollar Tree
+70,Beech-Nut,"Organic Just Apples - Stage 1, from about 4 months ",Fruit-single-apple,0,,0,0,0,"Charlottesville, VA",Wegmans
+71,Earth's Best,Apples Organic Baby Food 2 - from about 6 months ,Fruit-single-apple,6.5,,1.5 ,0,0,"Portland, OR",Fred Meyer
+72,Mott's,Mott's Applesauce Apple ,Fruit-single-apple,0,,0,0,0,"San Diego, CA",Family Dollar
+73,Seneca,Cinnamon Apple Sauce ,Fruit-single-apple,5.6 ,,3.7,0.7 ,0,"San Diego, CA",99 Cents Only Stores
+74,Beech-Nut,"Naturals Bananas - Stage 1, from about 4 months ",Fruit-single-banana,0,,0,0,0,"Albany, NY",buybuyBABY
+75,Gerber,Banana - Sitter 2nd Foods ,Fruit-single-banana,0,,0,0,0,"Gambell, AK",ANICA Native Store
+76,Meijer,Meijer Baby Bananas - 2nd Stage ,Fruit-single-banana,0,,0,0,0,"Detroit, MI",Meijer
+77,Gerber,Peach - Sitter 2nd Foods,Fruit-single-other,7.3,,2.4,2.1,0.142 ,"Gambell, AK",ANICA Native Store
+78,Orchard Naturals,Mandarin Oranges in Light Syrup,Fruit-single-other,0,,0,0,0,"Houston, TX",Dollar Tree
+79,Plum Organics,Just peaches - organic baby food - for 4+ months (stage 1),Fruit-single-other,7.2,,0.9 ,0,0,"Albany, NY",buybuyBABY
+80,Earth's Best,"First pears - 1, 4 months+",Fruit-single-pear,4.3 ,,1.2 ,1.5 ,0,"Houston, TX",99 Cents Only Stores
+81,Gerber,Pear - Sitter 2nd foods,Fruit-single-pear,4.2 ,,1.1 ,2.5,0.169 ,"Gambell, AK",ANICA Native Store
+82,HappyBABY,Organic Pears - Stage 1,Fruit-single-pear,7.4,,1 ,0.8 ,0,"Boulder, CO",Whole Foods Market
+83,HappyBABY,"Clearly Crafted Prunes Organic Baby Food, 1, 4+ months",Fruit-single-prune,0,,2,0,0,"Charlottesville, VA",Wegmans
+84,Sprout,Prunes Organic Baby Food - 1 starting solids  ,Fruit-single-prune,3.9 ,,6.1,0,0.245 ,"Albany, NY",buybuyBABY
+85,Beech-Nut,"Naturals Beets, Pear & Pomegranate - 2 ",Fruitandveggie-mixed,0,,0.9 ,4.7,0,"Washington, DC",Safeway
+86,Gerber,Organic Mango Apple Carrot Kale - Sitter 2nd foods ,Fruitandveggie-mixed,3.3 ,,1.1 ,11.4,0.212 ,"Gambell, AK",ANICA Native Store
+87,Gerber,Carrot Pear Blackberry - Sitter 2nd Foods ,Fruitandveggie-mixed,2.7 ,,3.6,18.2,0,"Washington, DC",gerber.com
+88,Gerber,Organic Apple Blueberry Spinach - Sitter 2nd Food ,Fruitandveggie-mixed,5 ,,1.5 ,1.8,0,"Houston, TX",99 Cents Only Stores
+89,HappyBABY,"HappyBABY Simple Combos Apples, Spinach & Kale - 2 ",Fruitandveggie-mixed,3 ,,4.3,4.9,0.182 ,"Portland, ME",Hannaford
+90,O Organics (Albertson/Safeway),"O Organics Organic Apple, Sweet Potato & Carrot Baby Food (Albertson/Safeway)",Fruitandveggie-mixed,2.6 ,,0.7 ,1.1 ,0,"Washington, DC",Safeway
+91,Plum Organics,"Plum Organics Just Prunes Organic Baby Food - 1, 4 months & up ",Fruitandveggie-mixed,7.6,,2.5,0,0.194 ,"Boulder, CO",Whole Foods Market
+92,Sprout,"Sprout Carrot Apple Mango Organic Baby Food - 2, 6 months & up",Fruitandveggie-mixed,6.1,,2.1,15.1,0,"Charlottesville, VA",Wegmans
+93,up & up (Target),"up & up (Target) Apple and Carrot Baby Food, Fruit + Vegetable Blend,  6+ months",Fruitandveggie-mixed,0,,0.7 ,0,0,"Minneapolis, MN",Target
+94,Gerber,Gerber Apple Sweet Potato with Cinnamon - Toddler 12+ months,Fruitandveggie-mixed,0,,3.1,0.7 ,0,"Houston, TX",99 Cents Only Stores
+95,Plum Organics,Plum Organics Pumpkin Banana Papaya Cardomom - 6 months and up,Fruitandveggie-mixed,2.4 ,,1.4 ,2.4,0,"San Diego, CA",99 Cents Only Stores
+96,Beech-Nut,Beech-Nut Classics Mixed Vegetables - Stage 2,Veggie-mixed,0,,17.9,8.6,0,"Portland, ME",Hannaford
+97,Earth's Best,"Earth's Best Spinach and Potato Organic Baby Food - 2, 6+ months",Veggie-mixed,6.4,,1.4 ,3,0,"Charlottesville, VA",Wegmans
+98,Gerber,Gerber Carrot Sweet Potato Pea - Sitter 2nd Foods Juice - 100% apple,Veggie-mixed,2.4 ,,6.7,2.1,0,"Gambell, AK",ANICA Native Store
+99,365 organic(Whole Foods),365 organic (Whole 100% Juice - Apple from Concentrate Foods),Juice-100%fruit,2.5 ,,0.7 ,0,0,"Boulder, CO",Whole Foods Market
+100,Gerber,Gerber Apple Juice from Concentrate - Toddler 12+ months,Juice-100%fruit,3.1 ,,2.1,0,0,"Portland, ME",Hannaford
+101,Juicy Juice,Juicy Juice Juicy Juice 100% Juice - Apple,Juice-100%fruit,3.6 ,,1 ,0,0,"Dallas, TX",Dollar Tree
+102,Kidgets,"Kidgets Toddler Apple Juice from Concentrate Juice - 100% fruit juice, non-apple or mixed",Juice-100%fruit,0,,0.6 ,0,0,"San Diego, CA",Family Dollar
+103,Apple & Eve,Apple & Eve Elmo's Punch - 100% Juice Organics,Juice-100%fruit,0,,0,0,0,"Boulder, CO",Whole Foods Market
+104,Gerber,Gerber Apple Prune Juice from Concentrate - Toddler 12+ months,Juice-100%fruit,5.6 ,,3.3,0,0,"Cincinnati, OH",Kroger
+105,Gerber,Gerber Variety Pack Juices from Concentrate - White Grape,Juice-100%fruit,9.9,,11.1,0,0,"Portland, OR",Fred Meyer
+106,Gerber,Gerber Pear Juice from Concentrate 100% Juice - Toddler 12+ months,Juice-100%fruit,4 ,,1.1 ,0.9 ,0,"Charlottesville, VA",Wegmans
+107,Juicy Juice,Juicy Juice 100% Juice Fruit Punch Drinks - not 100% fruit juice,Juice-100%fruit,2.5 ,,0.6 ,0.6 ,0,"San Diego, CA",Family Dollar
+108,Good2Grow,Good2Grow Fortified Water - Orange Mango ,Drink-not100%fruit,0,,1.8,0,0,"Dallas, TX",99 Cents Only Stores
+109,Orgain,Orgain Kids Protein Organic Nutrituional Shake Vanilla Flavor - Ages 1 to 13,Drink-not100%fruit,3.9 ,,0.6 ,0,0,"Charlottesville, VA",Wegmans
+110,Pediasure,Pediasure Grow & Gain Chocolate Shake ,Drink-not100%fruit,3 ,,1.3 ,2,0,"Portland, ME",Hannaford
+111,Repone,Repone Suero/Electrolyte Solution with Zinc Fruit Flavor ,Drink-not100%fruit,0,,0,0,0,"San Diego, CA",Family Dollar
+112,Yoo-hoo,"Yoo-hoo Yoo-hoo Chocolate Drink  Meals, including fruits & veggies with grains",Drink-not100%fruit,2.6 ,,0.8 ,1.1 ,0,"Houston, TX",Dollar Tree
 113,Deluxe Pasta,"Deluxe Pasta Macaroni & cheese, Original Flavor",Meal,6.7,,7,25,0,"Houston, TX",Dollar Tree
-114,Earth's Best,"Earth's Best Chicken and Brown Rice Organic Baby Food - 2, 6+ months",Meal ,34.4,13,18.3,1.9,0.232 ,"Washington, DC",amazon.com
-115,Earth's Best,Earth's Best Organic Turkey Quinoa Apple Sweet Potato Homestyle Meal Puree,Meal ,0,,1.9,1.9,0,"Columbia, SC",Publix
+114,Earth's Best,"Earth's Best Chicken and Brown Rice Organic Baby Food - 2, 6+ months",Meal,34.4,13,18.3,1.9,0.232 ,"Washington, DC",amazon.com
+115,Earth's Best,Earth's Best Organic Turkey Quinoa Apple Sweet Potato Homestyle Meal Puree,Meal,0,,1.9,1.9,0,"Columbia, SC",Publix
 116,Earth's Best,Earth's Best Organic Chicken Pot Pie Homestyle Meal Puree,Meal,0,,1.2 ,2.1,0,"Columbia, SC",Publix
-117,Gerber,Gerber Mashed Potatoes & Gravy with Roasted Chicken and a Side of Carrots - Toddler,Meal ,0,,2.4,17.5,0,"Portland, ME",Hannaford
+117,Gerber,Gerber Mashed Potatoes & Gravy with Roasted Chicken and a Side of Carrots - Toddler,Meal,0,,2.4,17.5,0,"Portland, ME",Hannaford
 118,Gerber,Gerber Chicken Rice Dinner - Sitter 2nd Foods,Meal,19.1,,2.3 ,8.9,0,"Washington, DC",gerber.com
 119,Gerber,Gerber Turkey Rice Dinner - Sitter 2nd Foods,Meal,6.2 ,,5.2,3.4,0,"Washington, DC",gerber.com
-120,Happy Tot,Happy Tot Love My Veggies Bowl - Cheese & Spinach Ravioli with Organic Marinara Sauce - for tots and tykes,Meal ,4.8 ,,8.5,19.6,0.148 ,"Columbia, SC",Publix
+120,Happy Tot,Happy Tot Love My Veggies Bowl - Cheese & Spinach Ravioli with Organic Marinara Sauce - for tots and tykes,Meal,4.8 ,,8.5,19.6,0.148 ,"Columbia, SC",Publix
 121,Kraft,"Kraft Macaroni & Cheese Dinner, Original Flavor",Meal,8.1,,2,38.6,0,"Houston, TX",Dollar Tree
-122,Sprout,"Sprout Garden Vegetables Brown Rice with Turkey - for 8 months & up, Stage 3",Meal ,7.2,,1.6 ,2.5,0,"Albany, NY",buybuyBABY
-123,Earth's Best,"Earth's Best Organic Sweet Potato Cinnamon Flax & Oat - Wholesome Breakfast Puree - 2, for 6+ months ",Fruit and veggie - with grain/meat/ dairy/legume,0,,4.4,4.3,0,"Albany, NY",buybuyBABY
-124,HappyBABY,"HappyBABY Apples, Sweet Potatoes & Granola Clearly Crafted Organic Baby Food - 2 ",Fruit and veggie - with grain/meat/ dairy/legume,3.6 ,,5.2,1.5 ,0,"Washington, DC",Safeway
-125,Parent's Choice (Walmart),"Parent's Choice Organic Strawberry Carrot and Quinoa Fruit & Veg (Walmart) Puree - Stage 2, 6+ months ",Fruit and veggie - with grain/meat/ dairy/legume,2.5 ,,3.6,1.8,0,"Charlottesville, VA",Walmart
-126,Plum Organics,"Plum Organics Apple, Raisin & Quinoa Organic Baby Food - 2 †  ",Fruit and veggie - with grain/meat/ dairy/legume,5.6 ,,2.2,1.9,0.145 ,"Washington, DC",Safeway
-127,Sprout,Sprout Butternut Chickpea Quinoa & Dates Organic Baby Food  Meat,Fruit and veggie - with grain/meat/ dairy/legume ,2.3 ,,0.8 ,0,0,"Columbia, SC",Publix
+122,Sprout,"Sprout Garden Vegetables Brown Rice with Turkey - for 8 months & up, Stage 3",Meal,7.2,,1.6 ,2.5,0,"Albany, NY",buybuyBABY
+123,Earth's Best,"Earth's Best Organic Sweet Potato Cinnamon Flax & Oat - Wholesome Breakfast Puree - 2, for 6+ months ",Fruitandveggie-withgrain/meat/dairy/legume,0,,4.4,4.3,0,"Albany, NY",buybuyBABY
+124,HappyBABY,"HappyBABY Apples, Sweet Potatoes & Granola Clearly Crafted Organic Baby Food - 2 ",Fruitandveggie-withgrain/meat/dairy/legume,3.6 ,,5.2,1.5 ,0,"Washington, DC",Safeway
+125,Parent's Choice (Walmart),"Parent's Choice Organic Strawberry Carrot and Quinoa Fruit & Veg (Walmart) Puree - Stage 2, 6+ months ",Fruitandveggie-withgrain/meat/dairy/legume,2.5 ,,3.6,1.8,0,"Charlottesville, VA",Walmart
+126,Plum Organics,"Plum Organics Apple, Raisin & Quinoa Organic Baby Food - 2 †  ",Fruitandveggie-withgrain/meat/dairy/legume,5.6 ,,2.2,1.9,0.145 ,"Washington, DC",Safeway
+127,Sprout,Sprout Butternut Chickpea Quinoa & Dates Organic Baby Food  Meat,Fruitandveggie-withgrain/meat/dairy/legume,2.3 ,,0.8 ,0,0,"Columbia, SC",Publix
 128,Beech-Nut,Beech-Nut Classics Chicken & Chicken Broth - 1,Meat,0,,0,0,0,"Washington, DC",Safeway
 129,Beech-Nut,Beech-Nut Classics Turkey and Turkey Broth - Stage One,Meat,0,,1 ,0,0,"Charlottesville, VA",Wegmans
 130,Gerber,Gerber Lil' Sticks Chicken Sticks - Toddler,Meat,0,,3.5,2.3,0,"Washington, DC",Safeway
 131,Gerber,Gerber Beef and Gravy 2nd foods,Meat,0,,2.1,0,0.251 ,"Columbia, SC",Publix
 132,Gerber,Gerber Ham and Gravy 2nd foods,Meat,0,,1 ,0,0,"Columbia, SC",Publix
-133,O Organics (Albertson/Safeway),O Organics Strained Organic Turkey and Turkey Gravy Baby (Albertson/Safeway) Food - 2 Snacks - Puffs,Meat  ,2.7 ,,1 ,0,0,"Washington, DC",Safeway
-134,Comforts (Kroger),Comforts (Kroger) Blueberry Little Puffs Cereal Snack,Snack - rice puffs,83.3,61,8.5,36.9,0.835,"Cincinnati, OH",Kroger
-135,Earth's Best,Earth's Best Sesame Street Organic Peanut Butter Baked Corn Puffs,"Snack - puffs, non-rice",0,,1.3 ,26,0,"Washington, DC",amazon.com
-136,HappyBABY,HappyBABY Superfood Puffs - Apple & Broccoli Organic Grain Snack - for crawling baby,Snack - rice puffs ,266,83,8.2,11,2.16,"Albany, NY",buybuyBABY
-137,HappyBABY,HappyBABY Superfood Puffs Organic Grain Snack - Sweet Potato & Carrot,Snack - rice puffs ,295,91,3.7,12.2,1.94,"Washington, DC",amazon.com
-138,Gerber,Gerber Puffs Banana Cereal Snack - Crawler 8+ months,Snack - rice puffs,44.5,,9.2,16,0.376 ,"Houston, TX",99 Cents Only Stores
-139,O Organics (Albertson/Safeway),O Organics Organic Puffs - Apple Strawberry (Albertson/Safeway),Snack - rice puffs ,309,133,7.5,15.2,3.29,"Washington, DC",Safeway
-140,Simple Truth Organic (Kroger),Simple Truth Organic Whole Grain Puffs Broccoli & Spinach (Kroger),Snack - rice puffs ,307,126,9.8,13.5,3.68,"Cincinnati, OH",Kroger
-141,Sprout,Sprout Organic Quinoa Puffs Baby Cereal Snack - Apple Kale Snacks - Teething biscuits & rice rusks/cakes,"Snack - puffs, contains rice ",107,47,39.3,41.5,1.31,"Washington, DC",amazon.com
-142,Baby Mum-Mum,Baby Mum-Mum Banana Rice Rusks  ,Snack - teething biscuits & rice rusks/cakes,104,53,5.2,2.3,1.72,"Cincinnati, OH",Kroger
-143,HappyBABY,HappyBABY Organic Rice Cakes Puffed Rice Snack - Apple  ,Snack - teething biscuits & rice rusks/cakes,455,47,1.7,5.4,3.18,"Boulder, CO",Whole Foods Market
-144,Meijer,Meijer Apple Rice Rusks Baked Rice Snack  ,Snack - teething biscuits & rice rusks/cakes,50.2,,3.2 ,3.9,1.99,"Detroit, MI",Meijer
-145,Parent's Choice (Walmart),"Parent's Choice Organic Strawberry Rice Rusks - Stage 2, 6+ months (Walmart) ",Snack - teething biscuits & rice rusks/cakes,108,66,26.9,2.4,2.05,"Charlottesville, VA",Walmart
-146,Simple Truth Organic (Kroger),Simple Truth Organic Mini Rice Cakes Apple - 7+ months (Kroger) ,Snack - teething biscuits & rice rusks/cakes,65.9,,8.7,0.8 ,1.1,"Cincinnati, OH",Kroger
-147,Cuetara,Cuetara Animalitos Galleta Crackers (Animal Crackers)***  ,Snack - teething biscuits & rice rusks/cakes,4.1 ,,6.4,25.5,0,"San Diego, CA",99 Cents Only Stores
-148,Gerber,Gerber Teether Wheels - Apple Harvest - Crawlers  ,Snack - teething biscuits & rice rusks/cakes,51.5,,2.1 ,3.8,0.588 ,"Washington, DC",Safeway
-149,HappyBABY,HappyBABY Organic Teethers Blueberry & Purple Carrot - Sitting baby ,Snack - teething biscuits & rice rusks/cakes,67,,6,8.2,2.26,"Charlottesville, VA",Wegmans
-150,Lil' Dutch Maid,Lil' Dutch Maid Saltine Crackers***  ,Snack - teething biscuits & rice rusks/cakes,10.1,,1.5 ,19.1,0,"San Diego, CA",99 Cents Only Stores
-151,Meijer,Meijer True Goodness Organic Teethers Baked Rice Snack - Vegetable ,Snack - teething biscuits & rice rusks/cakes,65,36,3.9,6.7,2.41,"Detroit, MI",Meijer
-152,Nosh!,Nosh! Baby Munchables Organic Teething Wafers - Banana & Mango ,Snack - teething biscuits & rice rusks/cakes,110,62,6.6,3.1 ,3.44,"Detroit, MI",Meijer
-153,Plum Organics,"Plum Organics Little Teethers Organic Multigrain Teething Wafers - Banana with Pumpkin - Baby Crawler  Snacks - Other (yogurt, biscuits, bars)",Snack - teething biscuits & rice rusks/cakes ,49.9,,1.4 ,6.3,0.726,"Columbia, SC",Publix
-154,Beech-Nut,"Beech-Nut Breakfast On-the-Go Yogurt, Banana & Mixed Berry Blend - Stage 4 from about 12 months",Snack - other ,0,,0.7 ,0,0,"Charlottesville, VA",Wegmans
-155,Earth's Best,Earth's Best Sesame Street Organic Fruit Yogurt Smoothie - Apple Blueberry,Snack - other ,4.4 ,,2.5,0,0,"Portland, OR",Fred Meyer
-156,Earth's Best,Earth's Best Sunny Days Snack Bars - Sweet Potato Carrot,Snack - other,13.9,,3.8,10.5,0.161 ,"Boulder, CO",Whole Foods Market
-157,Ella's Kitchen,"Ella's Kitchen Organic Nibbly Fingers - Apples and Strawberries, 1+",Snack - other ,27,,3,7.8,0.216 ,"Boulder, CO",Whole Foods Market
-158,Gerber,Gerber Yogurt Blends Stawberry Snack - Crawler 8+ months,Snack - other ,0,,1 ,0,0,"Gambell, AK",ANICA Native Store
-159,Gerber,"Gerber Fruit & Veggie Melts - Truly Tropical Blend - Freeze- Dried Fruit & Vegetable Snack - Crawler, 8+ months",Snack - other ,22.6,,12.2,26.8,0.455,"Albany, NY",buybuyBABY
-160,Gerber,Gerber Arrowroot Biscuits - Crawler 10+ months,Snack - other,13.1,,12.5,25.9,0,"Washington, DC",walmart.com
-161,Little Duck Organics,"Little Duck Organics 100% Pressed Fruit Snacks + Probiotics - Pomegranate, Blueberry & Acai",Snack - other ,13.6,,15,1 ,0,"Albany, NY",buybuyBABY
-162,Nostalgia,Nostalgia Marias Cookies Galletas,Snack - other,3.8 ,,6.6,22,0.14 ,"San Diego, CA",99 Cents Only Stores
-163,Parent's Choice (Walmart),"Parent's Choice Little Hearts Strawberry Yogurt Cereal Snack  - (Walmart) Stage 3, 9+ months",Snack - other ,56.1,,5.2,26.1,0.941,"Charlottesville, VA",Walmart
-164,Plum Organics,Plum Organics Mighty Morning Bar - Blueberry Lemon - Tots: 15 months & up,Snack - other ,40 ,39,3.4,24.3,0,"Cincinnati, OH",Kroger
-165,SOBISK,Breakfast Biscuits - Golden Oats,Snack - other,9,,60.1,9.6,0.143 ,"Dallas, TX",Dollar Tree
-166,Sprout,Organic Crispy Chews Red Fruit Beet & Berry with Crispy Brown Rice Toddler Fruit Snack ,Snack - other  ,19.2,,7.7,1.2 ,0.185 ,"Charlottesville, VA",Wegmans
+133,O Organics (Albertson/Safeway),O Organics Strained Organic Turkey and Turkey Gravy Baby (Albertson/Safeway) Food - 2 Snacks - Puffs,Meat,2.7 ,,1 ,0,0,"Washington, DC",Safeway
+134,Comforts (Kroger),Comforts (Kroger) Blueberry Little Puffs Cereal Snack,Snack-ricepuffs,83.3,61,8.5,36.9,0.835,"Cincinnati, OH",Kroger
+135,Earth's Best,Earth's Best Sesame Street Organic Peanut Butter Baked Corn Puffs,"Snack-puffs,non-rice",0,,1.3 ,26,0,"Washington, DC",amazon.com
+136,HappyBABY,HappyBABY Superfood Puffs - Apple & Broccoli Organic Grain Snack - for crawling baby,Snack-ricepuffs,266,83,8.2,11,2.16,"Albany, NY",buybuyBABY
+137,HappyBABY,HappyBABY Superfood Puffs Organic Grain Snack - Sweet Potato & Carrot,Snack-ricepuffs,295,91,3.7,12.2,1.94,"Washington, DC",amazon.com
+138,Gerber,Gerber Puffs Banana Cereal Snack - Crawler 8+ months,Snack-ricepuffs,44.5,,9.2,16,0.376 ,"Houston, TX",99 Cents Only Stores
+139,O Organics (Albertson/Safeway),O Organics Organic Puffs - Apple Strawberry (Albertson/Safeway),Snack-ricepuffs,309,133,7.5,15.2,3.29,"Washington, DC",Safeway
+140,Simple Truth Organic (Kroger),Simple Truth Organic Whole Grain Puffs Broccoli & Spinach (Kroger),Snack-ricepuffs,307,126,9.8,13.5,3.68,"Cincinnati, OH",Kroger
+141,Sprout,Sprout Organic Quinoa Puffs Baby Cereal Snack - Apple Kale Snacks - Teething biscuits & rice rusks/cakes,"Snack-puffs,containsrice",107,47,39.3,41.5,1.31,"Washington, DC",amazon.com
+142,Baby Mum-Mum,Baby Mum-Mum Banana Rice Rusks  ,Snack-teethingbiscuits&ricerusks/cakes,104,53,5.2,2.3,1.72,"Cincinnati, OH",Kroger
+143,HappyBABY,HappyBABY Organic Rice Cakes Puffed Rice Snack - Apple  ,Snack-teethingbiscuits&ricerusks/cakes,455,47,1.7,5.4,3.18,"Boulder, CO",Whole Foods Market
+144,Meijer,Meijer Apple Rice Rusks Baked Rice Snack  ,Snack-teethingbiscuits&ricerusks/cakes,50.2,,3.2 ,3.9,1.99,"Detroit, MI",Meijer
+145,Parent's Choice (Walmart),"Parent's Choice Organic Strawberry Rice Rusks - Stage 2, 6+ months (Walmart) ",Snack-teethingbiscuits&ricerusks/cakes,108,66,26.9,2.4,2.05,"Charlottesville, VA",Walmart
+146,Simple Truth Organic (Kroger),Simple Truth Organic Mini Rice Cakes Apple - 7+ months (Kroger) ,Snack-teethingbiscuits&ricerusks/cakes,65.9,,8.7,0.8 ,1.1,"Cincinnati, OH",Kroger
+147,Cuetara,Cuetara Animalitos Galleta Crackers (Animal Crackers)***  ,Snack-teethingbiscuits&ricerusks/cakes,4.1 ,,6.4,25.5,0,"San Diego, CA",99 Cents Only Stores
+148,Gerber,Gerber Teether Wheels - Apple Harvest - Crawlers  ,Snack-teethingbiscuits&ricerusks/cakes,51.5,,2.1 ,3.8,0.588 ,"Washington, DC",Safeway
+149,HappyBABY,HappyBABY Organic Teethers Blueberry & Purple Carrot - Sitting baby ,Snack-teethingbiscuits&ricerusks/cakes,67,,6,8.2,2.26,"Charlottesville, VA",Wegmans
+150,Lil' Dutch Maid,Lil' Dutch Maid Saltine Crackers***  ,Snack-teethingbiscuits&ricerusks/cakes,10.1,,1.5 ,19.1,0,"San Diego, CA",99 Cents Only Stores
+151,Meijer,Meijer True Goodness Organic Teethers Baked Rice Snack - Vegetable ,Snack-teethingbiscuits&ricerusks/cakes,65,36,3.9,6.7,2.41,"Detroit, MI",Meijer
+152,Nosh!,Nosh! Baby Munchables Organic Teething Wafers - Banana & Mango ,Snack-teethingbiscuits&ricerusks/cakes,110,62,6.6,3.1 ,3.44,"Detroit, MI",Meijer
+153,Plum Organics,"Plum Organics Little Teethers Organic Multigrain Teething Wafers - Banana with Pumpkin - Baby Crawler  Snacks - Other (yogurt, biscuits, bars)",Snack-teethingbiscuits&ricerusks/cakes,49.9,,1.4 ,6.3,0.726,"Columbia, SC",Publix
+154,Beech-Nut,"Beech-Nut Breakfast On-the-Go Yogurt, Banana & Mixed Berry Blend - Stage 4 from about 12 months",Snack-other,0,,0.7 ,0,0,"Charlottesville, VA",Wegmans
+155,Earth's Best,Earth's Best Sesame Street Organic Fruit Yogurt Smoothie - Apple Blueberry,Snack-other,4.4 ,,2.5,0,0,"Portland, OR",Fred Meyer
+156,Earth's Best,Earth's Best Sunny Days Snack Bars - Sweet Potato Carrot,Snack-other,13.9,,3.8,10.5,0.161 ,"Boulder, CO",Whole Foods Market
+157,Ella's Kitchen,"Ella's Kitchen Organic Nibbly Fingers - Apples and Strawberries, 1+",Snack-other,27,,3,7.8,0.216 ,"Boulder, CO",Whole Foods Market
+158,Gerber,Gerber Yogurt Blends Stawberry Snack - Crawler 8+ months,Snack-other,0,,1 ,0,0,"Gambell, AK",ANICA Native Store
+159,Gerber,"Gerber Fruit & Veggie Melts - Truly Tropical Blend - Freeze- Dried Fruit & Vegetable Snack - Crawler, 8+ months",Snack-other,22.6,,12.2,26.8,0.455,"Albany, NY",buybuyBABY
+160,Gerber,Gerber Arrowroot Biscuits - Crawler 10+ months,Snack-other,13.1,,12.5,25.9,0,"Washington, DC",walmart.com
+161,Little Duck Organics,"Little Duck Organics 100% Pressed Fruit Snacks + Probiotics - Pomegranate, Blueberry & Acai",Snack-other,13.6,,15,1 ,0,"Albany, NY",buybuyBABY
+162,Nostalgia,Nostalgia Marias Cookies Galletas,Snack-other,3.8 ,,6.6,22,0.14 ,"San Diego, CA",99 Cents Only Stores
+163,Parent's Choice (Walmart),"Parent's Choice Little Hearts Strawberry Yogurt Cereal Snack  - (Walmart) Stage 3, 9+ months",Snack-other,56.1,,5.2,26.1,0.941,"Charlottesville, VA",Walmart
+164,Plum Organics,Plum Organics Mighty Morning Bar - Blueberry Lemon - Tots: 15 months & up,Snack-other,40 ,39,3.4,24.3,0,"Cincinnati, OH",Kroger
+165,SOBISK,Breakfast Biscuits - Golden Oats,Snack-other,9,,60.1,9.6,0.143 ,"Dallas, TX",Dollar Tree
+166,Sprout,Organic Crispy Chews Red Fruit Beet & Berry with Crispy Brown Rice Toddler Fruit Snack ,Snack-other,19.2,,7.7,1.2 ,0.185 ,"Charlottesville, VA",Wegmans
 167,Gerber,Soothe Probiotic Colic Drops,Supplement,4.4 ,,0,0,0,"Washington, DC",walmart.com
